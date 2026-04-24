@@ -1,0 +1,22 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+ipykernel
+
+# Task 2
+yfinance
+
+# Tasks 4 & 5
+openai
+transformers
+datasets
+torch
+accelerate
+streamlit
+
+# Task 6
+xgboost
