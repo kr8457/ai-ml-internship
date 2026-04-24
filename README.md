@@ -1,4 +1,4 @@
-# AI/ML Internship Portfolio
+# AI/ML Internship 
 
 A comprehensive collection of machine learning and data science projects demonstrating core skills in exploratory data analysis, model building, evaluation, and interpretation.
 
